@@ -1,0 +1,13 @@
+📊 Python Sets Presentation | Easy Guide with Examples
+This PowerPoint Python Sets PPT is a beginner-friendly and visual guide to understanding Python Sets, including real-world examples and images.
+
+🔹 What’s Inside?
+✅ What are Sets in Python?
+✅ Set Operations (Union, Intersection, Difference)
+✅ Adding & Removing Elements
+✅ Set Methods (copy(), pop(), clear(), issubset(), issuperset())
+✅ Practical Use Cases
+
+📌 Click here to download the PPT
+
+🔹 Perfect for students, developers, and Python beginners! 🚀
